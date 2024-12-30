@@ -2,6 +2,8 @@
 
 ## Overview
 This project is a real-time multiplayer chess game developed as a personal project from May 2024 to June 2024. It utilizes Node.js, Express, Socket.io, and Chess.js for game logic. The aim was to create an interactive platform where players can enjoy chess against each other in real-time.
+![Screenshot (20)](https://github.com/user-attachments/assets/373d1d24-5f63-45ed-ba40-a9c64bdd1085)
+
 
 ## Features
 - **Real-Time Multiplayer**: Players can compete against each other in real-time, experiencing the thrill of chess with opponents from around the world.
